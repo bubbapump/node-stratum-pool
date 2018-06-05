@@ -28,7 +28,7 @@
         "url": "https://github.com/bubbapump/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/bubbapump/node-multi-hashing.git",
+        "multi-hashing": "file:../node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
